@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">💻 Web Developer | WordPress • PHP<br>⚡ TypeScript • React • Node.js<br>🎓 Graduando em Ciência da Computação.</h3>
+<h3 align="left">🎓 Graduando em Ciência da Computação.</h3>
 
 ###
 
